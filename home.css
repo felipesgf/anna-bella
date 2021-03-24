@@ -1,0 +1,69 @@
+
+
+.fundo {
+
+	background: #d2d2c1 url('imagens/background2.png');
+	font: 16px Arial;
+}
+
+.formatacao {
+
+	font-size:30px;
+}
+
+#principal {
+
+	border: 0px solid;
+	width: 900px;
+}
+
+#menu {
+	background: #302b62;
+	border: 0px solid red;
+	padding: 18px;
+	
+}
+
+.opacidade {
+	opacity: 85%;
+}
+
+#conteudo{
+
+	background: #302b62;
+	padding: 10px;
+}
+
+
+a {
+	color:#F1ECF1;
+	text-decoration: none;
+	font-weight: bold;
+	border: 0px solid red;
+	padding: 15px;
+}
+
+.centro {
+	text-align: center;
+	color:#A0AFC6;
+	font-size: 20px;
+}
+
+h1 {
+	color: #828271;
+	font-size: 1.2em;
+}
+
+.bordas {
+	border: 10px solid #9494b4;
+	
+} 
+
+h1 {
+	color:#F1ECF1;
+}
+
+p {
+	color:#CDDEF7;
+}
+
